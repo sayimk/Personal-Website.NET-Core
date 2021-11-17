@@ -1,0 +1,274 @@
+@charset "ISO-8859-1";
+
+.h3 {
+	color: black;
+	font-size: 40px;
+}
+
+body {
+	background-color:#262626;
+	margin:0;
+}
+
+footer {
+	background-color:#262626;
+	height: 70px;
+}
+
+a{
+	color:#F2F2F2;
+}
+
+#one.container {
+	padding-top: 50px;
+	background-color:#404040;	
+	color:#A6A6A6;
+
+}
+
+#indexSlides{
+	padding-top: -20px;
+}
+
+/*.nav-custom{
+	background-color:#262626;
+}*/
+
+.bright_white_font{
+	color:#F2F2F2;
+}
+
+canvas {
+    position:absolute;
+	top:0;
+	left:0;
+    z-index:-2;
+}
+				
+#personalinfo{
+	padding-top: 50px;
+	
+}
+
+#past_proj_split{
+	width:80%;
+	border-color:#F2F2F2;
+}
+
+#contactInfo{
+	padding-top: 90px;
+	
+}
+
+#gradImage.img-fluid{
+	max-width: 50%;
+	height: auto;
+}
+
+#opening.col-md{
+	padding-top: 20px;
+	padding-left:50px;
+	padding-right: 50px;
+}
+
+#preferences{
+		padding-top: 30px;
+		padding-left:80px;
+		padding-right: 80px;
+		
+}
+
+#proj_1_images{
+		padding-top: 20px;
+		max-width: 90%;
+		height: auto;
+		margin: auto;
+}
+
+#proj_1_title{
+		padding-top: 60px;
+		padding-left:80px;
+}
+
+#proj_1_details{
+		padding-left:90px;
+		padding-right:90px;
+		padding-top: 20px;
+}
+
+#proj_1_info_panel{
+		padding-left:70px;
+		padding-top: 60px;
+	
+}
+
+#proj_2_caro{
+		padding-top: 10px;
+}
+
+#proj_2_title{
+		padding-top: 60px;
+		padding-left:80px;
+}
+
+#proj_2_images{
+		padding-top: 10px;
+		max-width: 90%;
+		height: auto;
+		margin: auto;
+}
+
+#current_details{
+	
+		padding-left:90px;
+		padding-right:90px;
+}
+
+#cexLogo{
+	
+		max-width: 60%;
+		height: auto;
+		margin: auto;
+}
+
+#cex_logo_col{
+		padding-right:100px;
+		padding-top: 90px;
+}
+
+#CG_logo_col{
+		padding-right:100px;
+		padding-top: 200px;
+}
+
+#history_1_cex_details{
+		padding-left:80px;
+		padding-top: 40px;
+}
+
+#p_subtitle_indent{
+	padding-left:20px;
+}
+
+#p_subtitle_indent_right{
+	padding-right:20px;
+}
+
+#para_Indent{
+	padding-left:30px;
+}
+
+#CardsBG{
+
+	background-color:#404040;
+	height: 200px;
+	width: 900px;
+	border-radius: 25px;
+
+
+}
+
+#cardPastTitle{
+	position: relative;
+	top:65px;
+	left: 70px;
+
+}
+
+#cardSkillTitle{
+	position: relative;
+	top:70px;
+	left: 70px;
+}
+
+#cardHobbiesTitle{
+	position: relative;
+	top:75px;
+	left: 70px;
+}
+
+#CardsPastCan{
+	height: 200px;
+	width: 900px;
+}
+#CardsSkillCan{
+	height: 200px;
+	width: 900px;
+}
+
+#CardsHobbiesCan{
+	height: 200px;
+	width: 900px;
+}
+
+#cardPastSubText{
+	position: relative;
+	top:55px;
+	left: 110px;
+	color: #A6A6A6;
+}
+
+#cardSkillSubText{
+	position: relative;
+	top:60px;
+	left: 110px;
+	color: #A6A6A6;
+
+}
+
+#cardHobbiesSubText{
+	position: relative;
+	top:65px;
+	left: 110px;
+	color: #A6A6A6;
+}
+
+#cardPastIcon{
+	position: relative;
+	left: 80%;
+	top: -65px;
+	height: 70%;
+	max-width: auto;
+}
+
+#cardSkillIcon{
+	position: relative;
+	left: 80%;
+	top: -65px;
+	height: 70%;
+	max-width: auto;
+}
+
+#cardHobbiesIcon{
+	position: relative;
+	left: 80%;
+	top: -65px;
+	height: 70%;
+	max-width: auto;
+}
+
+#all_Lang_Title{
+	padding-left:80px;
+}
+
+#skills_Lang_List{
+	margin-left: 250px;
+}
+
+#home_img{
+	padding-top: 10px;
+	width:100%
+
+}
+
+#iconAnimate{
+			background-color:#262626;
+			z-index:-1;
+			}
+
+
+
+
+
+
+

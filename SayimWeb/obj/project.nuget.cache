@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mRo2Zboc1Q49UZPNECNnAQZO07DaPMYNMnO22EgJE3R7cWG7RUaEEhveFZ6wThneIvu9uJSH/1ZGUl13gm8zig==",
+  "dgSpecHash": "HSTW9Zz6ph2DF1/Vhh5/ToxcAS443nJTrqwSdsrQ2rr6ozi9clpbZ9Md63Vf8L3zaThzXN2gaGFeQuD7wC9P+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sayim\\source\\repos\\SayimWeb\\SayimWeb.csproj",
+  "projectFilePath": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\SayimWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sayim\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sayim\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
@@ -40,6 +40,8 @@
     "C:\\Users\\sayim\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.8.0\\microsoft.identitymodel.protocols.openidconnect.6.8.0.nupkg.sha512",
     "C:\\Users\\sayim\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\sayim\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\sayim\\.nuget\\packages\\microsoft.typescript.compiler\\3.1.5\\microsoft.typescript.compiler.3.1.5.nupkg.sha512",
+    "C:\\Users\\sayim\\.nuget\\packages\\microsoft.typescript.msbuild\\4.5.2\\microsoft.typescript.msbuild.4.5.2.nupkg.sha512",
     "C:\\Users\\sayim\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\sayim\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\sayim\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",

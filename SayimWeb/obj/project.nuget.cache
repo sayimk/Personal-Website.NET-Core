@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8NCE7Zn8sLbGHHdcD7X0mNZz7iyLlEYp+CptZzYj6pLtrpCazgDX7Ex304ZKq1lEEPaLPMfhBdIby41iHP6u4g==",
+  "dgSpecHash": "HSTW9Zz6ph2DF1/Vhh5/ToxcAS443nJTrqwSdsrQ2rr6ozi9clpbZ9Md63Vf8L3zaThzXN2gaGFeQuD7wC9P+g==",
   "success": true,
   "projectFilePath": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\SayimWeb.csproj",
   "expectedPackageFiles": [
@@ -40,6 +40,8 @@
     "C:\\Users\\sayim\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.8.0\\microsoft.identitymodel.protocols.openidconnect.6.8.0.nupkg.sha512",
     "C:\\Users\\sayim\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\sayim\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\sayim\\.nuget\\packages\\microsoft.typescript.compiler\\3.1.5\\microsoft.typescript.compiler.3.1.5.nupkg.sha512",
+    "C:\\Users\\sayim\\.nuget\\packages\\microsoft.typescript.msbuild\\4.5.2\\microsoft.typescript.msbuild.4.5.2.nupkg.sha512",
     "C:\\Users\\sayim\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\sayim\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\sayim\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",

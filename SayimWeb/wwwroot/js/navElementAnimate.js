@@ -1,5 +1,5 @@
 //importing nav element profiles for dimensions
-import { navElementProfile } from "/js/navElementProfile.js";
+import { navElementProfile } from "./navElementProfile.js";
 //fetching and assigning canvas navbar
 let canvas = document.getElementById("iconAnimate");
 let ct = canvas.getContext('2d');
@@ -156,3 +156,4 @@ nav_cv_info.onmouseenter = () => {
 nav_cv_info.onmouseleave = () => {
     stopAnimation();
 };
+//# sourceMappingURL=navElementAnimate.js.map

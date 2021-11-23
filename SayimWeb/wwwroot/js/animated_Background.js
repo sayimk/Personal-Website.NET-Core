@@ -1,4 +1,4 @@
-import { DrawableCircle } from '/js/DrawableCircle.js';
+import { DrawableCircle } from './DrawableCircle.js';
 //setting canvas element
 let bg = document.getElementById('background');
 let circles = [];
@@ -28,3 +28,4 @@ bg.width = window.innerWidth;
 bg.height = document.body.clientHeight;
 generateCircles();
 everyFrame();
+//# sourceMappingURL=animated_Background.js.map

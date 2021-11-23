@@ -128,3 +128,4 @@ F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\obj\Debug\net6.0\sc
 F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\obj\Debug\net6.0\scopedcss\projectbundle\SayimWeb.bundle.scp.css
 F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\obj\Debug\net6.0\SayimWeb.csproj.CopyComplete
 F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\obj\Debug\net6.0\SayimWeb.genruntimeconfig.cache
+F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\bin\Debug\net6.0\tsconfig.json

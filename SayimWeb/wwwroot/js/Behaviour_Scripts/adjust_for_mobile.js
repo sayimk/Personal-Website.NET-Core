@@ -14,3 +14,4 @@ window.onresize = () => {
 };
 //main
 changeToMobileNavbar();
+//# sourceMappingURL=adjust_for_mobile.js.map

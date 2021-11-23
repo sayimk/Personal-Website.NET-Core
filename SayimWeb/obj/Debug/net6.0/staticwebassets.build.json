@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+aleWgFVLaswnS/k5+LPohDrjpsKQfCn3jSiHXCrJUQ=",
+  "Hash": "zm9ueRBzJ5C6RpCUh/B5/Jkrs0iwh2ETMgtjLaQ5zoI=",
   "Source": "SayimWeb",
   "BasePath": "_content/SayimWeb",
   "Mode": "Default",
@@ -2142,6 +2142,23 @@
       "OriginalItemSpec": "wwwroot\\js\\animated_Background.js"
     },
     {
+      "Identity": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\js\\animated_Background.js.map",
+      "SourceId": "SayimWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\",
+      "BasePath": "_content/SayimWeb",
+      "RelativePath": "js/animated_Background.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\animated_Background.js.map"
+    },
+    {
       "Identity": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\js\\Behaviour_Scripts\\adjust_for_mobile.js",
       "SourceId": "SayimWeb",
       "SourceType": "Discovered",
@@ -2157,6 +2174,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Behaviour_Scripts\\adjust_for_mobile.js"
+    },
+    {
+      "Identity": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\js\\Behaviour_Scripts\\adjust_for_mobile.js.map",
+      "SourceId": "SayimWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\",
+      "BasePath": "_content/SayimWeb",
+      "RelativePath": "js/Behaviour_Scripts/adjust_for_mobile.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Behaviour_Scripts\\adjust_for_mobile.js.map"
     },
     {
       "Identity": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\js\\DrawableCircle.js",
@@ -2176,6 +2210,23 @@
       "OriginalItemSpec": "wwwroot\\js\\DrawableCircle.js"
     },
     {
+      "Identity": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\js\\DrawableCircle.js.map",
+      "SourceId": "SayimWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\",
+      "BasePath": "_content/SayimWeb",
+      "RelativePath": "js/DrawableCircle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\DrawableCircle.js.map"
+    },
+    {
       "Identity": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\js\\navElementAnimate.js",
       "SourceId": "SayimWeb",
       "SourceType": "Discovered",
@@ -2193,6 +2244,23 @@
       "OriginalItemSpec": "wwwroot\\js\\navElementAnimate.js"
     },
     {
+      "Identity": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\js\\navElementAnimate.js.map",
+      "SourceId": "SayimWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\",
+      "BasePath": "_content/SayimWeb",
+      "RelativePath": "js/navElementAnimate.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\navElementAnimate.js.map"
+    },
+    {
       "Identity": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\js\\navElementProfile.js",
       "SourceId": "SayimWeb",
       "SourceType": "Discovered",
@@ -2208,6 +2276,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\navElementProfile.js"
+    },
+    {
+      "Identity": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\js\\navElementProfile.js.map",
+      "SourceId": "SayimWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\",
+      "BasePath": "_content/SayimWeb",
+      "RelativePath": "js/navElementProfile.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\navElementProfile.js.map"
     },
     {
       "Identity": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\js\\site.js",

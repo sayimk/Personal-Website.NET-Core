@@ -41,3 +41,4 @@ export class DrawableCircle {
         this.cirCol = this.colorPalette[Math.floor(Math.random() * this.colorPalette.length)];
     }
 }
+//# sourceMappingURL=DrawableCircle.js.map

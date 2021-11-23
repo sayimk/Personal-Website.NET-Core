@@ -26,3 +26,4 @@ navElementProfile.home_nav_item_profile = new navElementProfile(160, 14, 244, 49
 navElementProfile.pastProject_nav_item_profile = new navElementProfile(244, 14, 372, 49);
 navElementProfile.currentProject_nav_item_profile = new navElementProfile(372, 14, 525, 49);
 navElementProfile.cvInfo_nav_item_profile = new navElementProfile(525, 14, 620, 49);
+//# sourceMappingURL=navElementProfile.js.map

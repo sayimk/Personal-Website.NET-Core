@@ -8,45 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SayimWeb
 build_property.RootNamespace = SayimWeb
-build_property.ProjectDir = C:\Users\sayim\source\repos\SayimWeb\
+build_property.ProjectDir = F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sayim\source\repos\SayimWeb
+build_property.MSBuildProjectDirectory = F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/sayim/source/repos/SayimWeb/Areas/Identity/Pages/_ViewStart.cshtml]
+[F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sayim/source/repos/SayimWeb/Views/Home/Index.cshtml]
+[F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sayim/source/repos/SayimWeb/Views/Home/Privacy.cshtml]
+[F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sayim/source/repos/SayimWeb/Views/Shared/Error.cshtml]
+[F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sayim/source/repos/SayimWeb/Views/Shared/_LoginPartial.cshtml]
+[F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sayim/source/repos/SayimWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sayim/source/repos/SayimWeb/Views/_ViewImports.cshtml]
+[F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sayim/source/repos/SayimWeb/Views/_ViewStart.cshtml]
+[F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sayim/source/repos/SayimWeb/Views/Shared/_Layout.cshtml]
+[F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ugxgtny9ul

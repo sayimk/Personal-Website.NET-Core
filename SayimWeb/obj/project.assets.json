@@ -2272,11 +2272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sayim\\source\\repos\\SayimWeb\\SayimWeb.csproj",
+      "projectUniqueName": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\SayimWeb.csproj",
       "projectName": "SayimWeb",
-      "projectPath": "C:\\Users\\sayim\\source\\repos\\SayimWeb\\SayimWeb.csproj",
+      "projectPath": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\SayimWeb.csproj",
       "packagesPath": "C:\\Users\\sayim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sayim\\source\\repos\\SayimWeb\\obj\\",
+      "outputPath": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Programs\\Programs\\Visual Studio 2017\\NuGetPackages",

@@ -23,6 +23,11 @@ namespace SayimWeb.Controllers
             return View();
         }
 
+        public IActionResult past_projects()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

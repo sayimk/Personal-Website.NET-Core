@@ -23,6 +23,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjdXJyZW50X3Byb2plY3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/Home/cv_landing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjdl9sYW5kaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/Home/hobbies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxob2JiaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -33,6 +41,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/Home/skills.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxza2lsbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/Home/work_experience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx3b3JrX2V4cGVyaWVuY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/WorkSpace/GitHub Repos/Personal-Website.NET-Core/SayimWeb/Views/Shared/Error.cshtml]

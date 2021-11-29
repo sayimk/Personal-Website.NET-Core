@@ -28,6 +28,26 @@ namespace SayimWeb.Controllers
             return View();
         }
 
+        public IActionResult cv_landing()
+        {
+            return View();
+        }
+
+        public IActionResult hobbies()
+        {
+            return View();
+        }
+
+        public IActionResult skills()
+        {
+            return View();
+        }
+
+        public IActionResult work_experience()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

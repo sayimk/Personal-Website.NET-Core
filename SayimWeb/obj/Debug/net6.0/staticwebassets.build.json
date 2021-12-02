@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zm9ueRBzJ5C6RpCUh/B5/Jkrs0iwh2ETMgtjLaQ5zoI=",
+  "Hash": "aRlI/vOUXnMpVyD9qK35yGf+QHTGkTRFSHcHJ/VehDo=",
   "Source": "SayimWeb",
   "BasePath": "_content/SayimWeb",
   "Mode": "Default",
@@ -1086,23 +1086,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\General_CSS.css"
-    },
-    {
-      "Identity": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\css\\site.css",
-      "SourceId": "SayimWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\",
-      "BasePath": "_content/SayimWeb",
-      "RelativePath": "css/site.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
       "Identity": "F:\\WorkSpace\\GitHub Repos\\Personal-Website.NET-Core\\SayimWeb\\wwwroot\\favicon.ico",

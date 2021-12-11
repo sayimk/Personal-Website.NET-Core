@@ -1,4 +1,5 @@
 using AspNetCore.SEOHelper;
+using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SayimWeb.Data;
@@ -21,7 +22,9 @@ var env = builder.Environment;
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    app.UseDeveloperExceptionPage();
     app.UseMigrationsEndPoint();
+
 }
 else
 {
@@ -30,7 +33,9 @@ else
     app.UseHsts();
 }
 
-app.UseHttpsRedirection();
+//HTTPS redirection is being done at a AWS ALB level before hitting the application
+//app.UseHttpsRedirection(); 
+
 app.UseStaticFiles();
 
 app.UseRouting();

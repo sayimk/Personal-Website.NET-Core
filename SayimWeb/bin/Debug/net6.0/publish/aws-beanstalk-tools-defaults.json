@@ -1,0 +1,20 @@
+
+{
+    "region" : "eu-west-2",
+    "configuration" : "Debug",
+    "framework"     : "net6.0",
+    "self-contained" : true,
+    "application"    : "SayimCore",
+    "environment"    : "Sayimcore-env",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "enhanced",
+    "additional-options"   : "",
+    "proxy-server"         : "nginx",
+    "solution-stack"       : "64bit Amazon Linux 2 v2.2.8 running .NET Core",
+    "environment-type"     : "SingleInstance",
+    "cname"                : "sayimweb-test",
+    "instance-type"        : "t3a.nano",
+    "key-pair"             : "",
+    "instance-profile"     : "aws-elasticbeanstalk-ec2-role",
+    "service-role"         : "aws-elasticbeanstalk-service-role"
+}

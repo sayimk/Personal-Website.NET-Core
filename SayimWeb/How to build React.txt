@@ -1,0 +1,3 @@
+Open CMD and navigate to this parent location
+
+run npm run build

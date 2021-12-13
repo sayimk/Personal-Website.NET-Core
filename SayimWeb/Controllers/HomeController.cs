@@ -56,6 +56,11 @@ namespace SayimWeb.Controllers
             return View();
         }
 
+        public IActionResult Experimental()
+        {
+            return View();
+        }
+
         public ActionResult sitemap()
         {
             var list = new List<SitemapNode>();

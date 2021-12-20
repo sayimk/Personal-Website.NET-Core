@@ -2,6 +2,8 @@ F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\bin\Debug\net6.0\pu
 F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\bin\Debug\net6.0\publish\appsettings.Development.json
 F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\bin\Debug\net6.0\publish\appsettings.json
 F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\bin\Debug\net6.0\publish\aws-beanstalk-tools-defaults.json
+F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\bin\Debug\net6.0\publish\package-lock.json
+F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\bin\Debug\net6.0\publish\package.json
 F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\bin\Debug\net6.0\publish\tsconfig.json
 F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\bin\Debug\net6.0\publish\SayimWeb.dll
 F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\bin\Debug\net6.0\publish\SayimWeb.runtimeconfig.json

@@ -2,8 +2,12 @@
 
 module.exports = {
     entry: {
-        index: "./Scripts/src/index.js"
+        //Add ReactJS Script exports here
+        index: "./Scripts/src/index.js",
+        Header: "./Scripts/src/Header.js"
     },
+
+    //This is where all the files will be exported
     output: {
         path: path.resolve(__dirname, "../../wwwroot/js/reactJS/"),
         filename: "[name].js"

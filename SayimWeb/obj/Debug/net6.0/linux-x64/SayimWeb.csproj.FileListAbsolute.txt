@@ -566,3 +566,5 @@ F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\obj\Debug\net6.0\li
 F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\obj\Debug\net6.0\linux-x64\SayimWeb.pdb
 F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\obj\Debug\net6.0\linux-x64\SayimWeb.genruntimeconfig.cache
 F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\bin\Debug\net6.0\linux-x64\aws-beanstalk-tools-defaults.json
+F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\bin\Debug\net6.0\linux-x64\package-lock.json
+F:\WorkSpace\GitHub Repos\Personal-Website.NET-Core\SayimWeb\bin\Debug\net6.0\linux-x64\package.json
